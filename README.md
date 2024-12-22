@@ -1,4 +1,4 @@
-# 修改版打标器插件
+# 修改版打标器插件，主要就是多加了几个打标模型
 
 ***This branch is unmaintained!***
 https://github.com/toriato/stable-diffusion-webui-wd14-tagger/issues/108
