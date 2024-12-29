@@ -1,11 +1,5 @@
 # 修改版打标器插件，主要就是多加了几个打标模型
 
-***This branch is unmaintained!***
-https://github.com/toriato/stable-diffusion-webui-wd14-tagger/issues/108
----
-https://github.com/picobyte/stable-diffusion-webui-wd14-tagger
-
-
 # Tagger for [Automatic1111's WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 Interrogate booru style tags for single or multiple image files using various models, such as DeepDanbooru.
 
