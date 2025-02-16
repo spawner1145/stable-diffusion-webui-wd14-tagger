@@ -63,6 +63,22 @@ def refresh_interrogators() -> List[str]:
             'wd-vit-v3-git',
             repo_id='SmilingWolf/wd-vit-tagger-v3'
         ),
+            'wd14-convnext-v3-git': WaifuDiffusionInterrogator(
+            'wd14-convnext-v3-git',
+            repo_id='SmilingWolf/wd-convnext-tagger-v3'
+        ),
+            'wd14-swinv2-v3-git': WaifuDiffusionInterrogator(
+            'wd14-swinv2-v3-git',
+            repo_id='SmilingWolf/wd-swinv2-tagger-v3'
+        ),
+            'wd14-large-v3-git': WaifuDiffusionInterrogator(
+            'wd14-large-v3-git',
+            repo_id='SmilingWolf/wd-vit-large-tagger-v3'
+        ),
+            'wd14-eva02-large-v3-git': WaifuDiffusionInterrogator(
+            'wd14-eva02-large-v3-git',
+            repo_id='SmilingWolf/wd-eva02-large-tagger-v3'
+        ),
     }
 
     # load deepdanbooru project
